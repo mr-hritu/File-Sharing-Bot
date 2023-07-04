@@ -22,4 +22,4 @@ jobs:
           pip install pyrogram TgCrypto pyromod==1.5 pymongo dnspython aiohttp
       - name: 🏃‍♂️ Run the UserClient. 🏃‍♂️
         run: |
-          python3 -m bot
+           python3 main.py
