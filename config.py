@@ -28,7 +28,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "5190902724"))
 PORT = os.environ.get("PORT", "8080")
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://ronoxe1308:nulcnaRvqNC5uty@rename-telegram-bot-log.clbv64f.mongodb.net/?retryWrites=true&w=majority")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://hrwork5717:nobodyknows@cluster0.g4zrsl1.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "filesharexbot")
 
 #force sub channel id, if you want enable force sub
